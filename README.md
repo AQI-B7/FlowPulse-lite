@@ -1,5 +1,5 @@
 # FlowPulse
-
+## @AQI-B7
 FlowPulse is a TypeScript monorepo for a multi-channel direct messaging automation platform built for WhatsApp, Instagram, and TikTok workflows. It brings together a backend API, a React frontend, shared validation code, and a PostgreSQL schema layer to manage inboxes, automation flows, broadcasts, contacts, analytics, and compliance tooling in one system.
 
 ## Overview
