@@ -216,7 +216,7 @@ pnpm --filter @workspace/db run push
 
 ## License
 
-This repository does not currently declare a project license in its metadata.
+This repository is under AGPL3.0 license.
 
 ## Status
 
